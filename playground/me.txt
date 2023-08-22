@@ -1,6 +1,0 @@
-{{#user}}
-Name: Neeraj Rawat
-Skills: HTML, CSS, JS, React.js
-Email: neerajrawatrz9a@gmail.com
-{{/user}}
-
